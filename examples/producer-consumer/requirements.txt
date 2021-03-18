@@ -1,0 +1,5 @@
+certifi==2020.12.5
+kafka-python==2.0.2
+python-certifi-win32==1.6
+setuptools-scm==5.0.1
+wrapt==1.12.1
